@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Paveldelpozo's GitHub stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=paveldelpozo&show_icons=true&rank_icon=github&include_all_commits=true&ring_color=ff0000)](https://github.com/anuraghazra/github-readme-stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=paveldelpozo&show_icons=true&rank_icon=github&include_all_commits=true&ring_color=ff0000" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat" title="Top Langs">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paveldelpozo&show_icons=true&layout=compact&langs_count=8&card_width=320" />
