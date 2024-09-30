@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Paveldelpozo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paveldelpozo&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&ring_color=ff0000)](https://github.com/anuraghazra/github-readme-stats)
+[![Paveldelpozo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paveldelpozo&show_icons=true&rank_icon=github&include_all_commits=true&ring_color=ff0000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paveldelpozo&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paveldelpozo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Paveldelpozo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paveldelpozo&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Paveldelpozo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paveldelpozo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
